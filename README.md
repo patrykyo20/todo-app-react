@@ -4,6 +4,8 @@
 
 This task management app was developed to help users effectively organize and manage their daily tasks. The app offers essential features such as creating, deleting, and marking tasks as completed, ensuring a seamless task-tracking experience.
 
+![image](https://github.com/user-attachments/assets/eed3b57b-78c2-47e1-9ad9-96bb96fd2c25)
+
 ### Key Features:
 - **Task Management**: Users can easily create, delete, and mark tasks as completed, offering a simple interface for daily task tracking.
 - **Technologies Used**:
